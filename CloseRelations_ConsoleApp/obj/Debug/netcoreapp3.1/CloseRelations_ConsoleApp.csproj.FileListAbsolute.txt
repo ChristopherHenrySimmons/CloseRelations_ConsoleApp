@@ -8,8 +8,9 @@ C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\bin\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.dll
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\bin\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.pdb
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\bin\Debug\netcoreapp3.1\RestSharp.dll
-C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.csproj.CopyComplete
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.dll
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.pdb
 C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.genruntimeconfig.cache
+C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris\source\repos\CloseRelations_ConsoleApp\CloseRelations_ConsoleApp\obj\Debug\netcoreapp3.1\CloseRelations_ConsoleApp.csproj.CoreCompileInputs.cache
